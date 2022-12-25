@@ -1,0 +1,324 @@
+*{
+  box-sizing: border-box;
+}
+p{
+  font-family:apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif
+}
+h1{
+  color: #2b2c33;
+  font-family: apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif
+}
+body
+{
+  margin: 0;
+  width: 100%;
+  padding-left: 75px;
+  padding-right: 75px;
+}
+.top-banner
+{
+  width:100%;
+  height: 75px;
+  margin-top: 5px;
+  
+} 
+.logo-content
+{
+  height: 50%;
+  width: 100%;
+  background-color: white;
+  display: inline-block;
+}
+.brand-logo
+{
+  margin-top: 10px;
+  width: 120px;
+  float: left;
+}
+.nav
+{
+  list-style: none;
+  float: left;
+  
+}
+.skype
+{
+  display: block;
+  font-size: 18px;
+  font-weight: 600;
+  margin-top: -3px;
+}
+
+li
+{
+  font-size: 13px;
+  margin-left: 17px;
+  font-family:apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif
+}
+.body-content
+{
+  height: 630px; 
+  width: 100%;
+  background-color: f2f2f2;
+  border-radius: 0px 20px 20px 20px;
+}
+.text-left{
+  height: 100%;
+  width: 50%;
+  float: left;
+}
+.img-right
+{
+float: left;
+  height: 100%;
+  width: 50%;
+  
+}
+.content-img
+{
+  width: 693px;
+  padding-top: 70px;
+  padding-right: 12px;
+  
+}
+.nav-lasttwo
+{
+  list-style: none;
+  display: flex;
+}
+.move
+{
+      margin-left: 386px;
+}
+.left-text
+{
+ margin: 158px;
+ font-size: 50px;
+ margin-bottom: 0px;
+ width:496px;
+}
+.para
+{
+  padding-left: 154px;
+  margin-top: 32px;
+  font-size: 18;
+  width: 89%;
+  color:#2b2c33;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI","Roboto","Oxygen","Ubuntu","Cantarell","Fira Sans","Droid Sans","Helvetica Neue",sans-serif;
+}
+.open-sykpe
+{
+  padding-top: 14px;
+  padding-bottom: 33px;
+    margin-left:150px;
+    margin-top: 25px;
+    width: 276px;
+    height: 25px;
+    background-color:#0e78c8 ;
+    border:none;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    border-radius: 48.5px;
+    text-align: center;
+}
+.download
+{
+  margin-left: 152px;
+  margin-top: 43px;
+  color: #006fbb;
+}
+.Discover
+{
+  width: 100%;
+  height: 1000px;
+  margin-top: 10px;
+}
+.footer
+{
+  background-color: #f2f2f2;
+  width: 1515px;
+  height: 450px;
+  margin-left: -70px;
+  padding-left: 75px;
+  padding-right: 75px;
+  padding-top: 31px;
+}
+
+.para-discover
+{
+  width: 100%;
+  background-color: white;
+  height: 105px;
+  
+}
+.para-discover h1{
+  margin-left: 440px;
+  margin-top: 60px;
+  font-size: 45px;
+}
+
+.first-dis
+{
+  height: 678px;
+  width: 322px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 10px;
+  float: left;
+  border-radius: 0px 20px 20px 20px;
+  border: 1px solid #e5e4e8;
+}
+.first-pic
+{
+  width: 100%;
+  height: 180px;
+  overflow: hidden;
+  border-radius: 0px 20px 0px 0px;
+}
+.first-pic img{
+  width: 112%;
+  
+}
+.first-content{
+  height: 295px;
+  width: 100%;
+  margin-top: 40px;
+  margin-left: 41px; 
+  color: #2b2c33;
+  font-size: 20px;
+}
+.p1{
+  font-size: 19px;
+  width: 251px;
+  font-weight: bold;
+}
+.p2
+{
+  font-size: 19px;
+  width: 251px; 
+}
+.signtag
+{
+  margin-top: 72px;
+    height: 91px;
+}
+.signtag a
+{
+  margin-left: 39px;
+  color: #0078ca;
+  text-decoration: none;
+  font-size: 18px;
+}
+.withskype
+{
+  background-image: linear-gradient(90deg, #0078d4, #c218ec);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
+.bar
+{
+  font-size: 24px;
+    margin-top: -7px;
+}
+.sb
+{
+  font-weight: bold;
+  line-height: 24px;
+}
+.whats
+{
+  height: 318px;
+  width: 205px;
+  float: left;
+  margin-right: 20px;
+ 
+}
+.whats p{
+  color: #616161;
+   font-family: apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif
+  
+}
+.whats ul{
+  list-style: none;
+  margin-left: -58;
+}
+.whats li{
+  font-size: 11px;
+    line-height: 35px;
+    color: #616161;
+}
+.downtag
+{
+    width: 100%;
+    height: 67px;
+    margin-top: 354px;
+}
+.downtag ul{
+  list-style: none;
+    display: flex;
+    margin-left: 474px;
+}
+.downtag li{
+        margin-top: 41px;
+    margin-left: 31px;
+    color: #616161;
+    font-size: 10px;
+}
+.fa-globe
+{
+  width: 20px;
+  margin-top: -54px;
+  filter: invert(.5);
+}
+
+.search{
+  
+  width: 198px;
+  height: 40px;
+  margin-top: -65px;
+  margin-left: 25px;
+  border-radius: 25px;
+  padding-left: 15px;
+  padding-right: 10px;
+  color:#616161; 
+  font-size: 10px;
+}
+.social-media 
+{
+ 
+    width: 1329px;
+    height: 68px;
+    margin-top: 776px;
+    margin-left: 25px;
+}
+
+.social-media1 a,li
+{
+display: flex;
+list-style: none;
+float: left;
+}
+.li,a
+{
+  font-size: 14;
+  color: #616161; ;
+}
+.limit
+{
+  margin-top: -14px;
+  margin-left: 674px;
+  font-size: 12px;
+}
+.b1{
+  margin-top: 25px;
+    font-weight: bold;
+    margin-left: 1123px;
+    font-size: 14.4px;
+}
+.pcancel{
+  width: 21px;
+  margin-top: -68px;
+  margin-left: 1100px;
+}
